@@ -1,0 +1,22 @@
+{
+    "files.encoding": "gb2312",
+    "files.associations": {
+        "bsp.h": "c",
+        "bsp_adns9800.h": "c",
+        "configuration.h": "cpp",
+        "bsp_dac.h": "c",
+        "pid_current.h": "c",
+        "bsp_motor_drive.h": "c",
+        "usart.h": "c",
+        "timer.h": "c",
+        "app_mousesensortodtheta.h": "c",
+        "app_timingcheck.h": "c",
+        "app_sub_pid_current.h": "c",
+        "app_main_pid.h": "c",
+        "bsp_adc.h": "c",
+        "app_rotor_rotate.h": "c",
+        "app_Decouple.h": "c",
+        "bsp_key.h": "c"
+    },
+    "python.pythonPath": "C:\\Users\\ventus\\AppData\\Local\\Programs\\Python\\Python36\\python.exe"
+}
